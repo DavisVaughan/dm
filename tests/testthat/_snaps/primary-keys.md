@@ -171,7 +171,7 @@
     Output
       $pks
       # A tibble: 0 x 2
-      # ... with 2 variables: table <chr>, pk_col <keys>
+      # * 2 variables: table <chr>, pk_col <keys>
       
       $fks
       # A tibble: 5 x 5
